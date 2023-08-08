@@ -3,6 +3,9 @@ This project was the task number 04 of my Data Science Internship with Oasis Inf
 train the spam detector to recognize and classify emails into spam and non-spam.
 
 
+the dataset was locally stored on my machine 
+
+
 
 
 
